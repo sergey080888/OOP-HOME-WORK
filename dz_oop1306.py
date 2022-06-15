@@ -123,8 +123,6 @@ print(some_student > best_student)
 print(some_lecturer < best_lecturer)
 students_list = [best_student, some_student]
 lectors_list = [best_lecturer, some_lecturer]
-print(best_student.grades)
-print(best_student.courses_in_progress)
 
 
 def average_grade_students(student_list, course):
